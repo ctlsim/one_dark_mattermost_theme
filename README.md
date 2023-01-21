@@ -19,7 +19,7 @@ One dark for mattermost
     "centerChannelBg":"#2a2b35",
     "centerChannelColor":"#c5c5c5",
     "newMessageSeparator":"#f9fafd",
-    "linkColor":"#7cbbff",
+    "linkColor":"#7291d6",
     "buttonBg":"#505367",
     "buttonColor":"#ffffff",
     "errorTextColor":"#ab2420",
